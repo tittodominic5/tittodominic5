@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Titto Dominic</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tittodominic5&label=Profile%20views&color=0e75b6&style=flat" alt="tittodominic5" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tittodominic5" alt="tittodominic5" /></a> </p>
+
+- 📫 How to reach me **titto@newagesmb.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
