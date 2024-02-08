@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Titto Dominic</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<a align="center" href="https://app.daily.dev/titto"><img src="https://api.daily.dev/devcards/52650c9aefb04d84a87e4a9d2f9a3ecd.png?r=khs" width="400" alt="Titto Dominic's Dev Card"/></a>
+<a align="center" href="https://app.daily.dev/titto"><img src="https://api.daily.dev/devcards/52650c9aefb04d84a87e4a9d2f9a3ecd.png?r=khs" alt="Titto Dominic's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tittodominic5&label=Profile%20views&color=0e75b6&style=flat" alt="tittodominic5" /> </p>
 
